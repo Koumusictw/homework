@@ -5,3 +5,4 @@ def f(n,m):
 a=int(input())
 b=int(input())
 print(f(a,b))
+#程式由阿昊提供，小冰改寫
